@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.secao-topo{
+background-image: url(img/capa.jpg);
+background-size: cover;
+background-attachment: fixed;
+text-align: center;
+min-height: 800px;
+color:white;
+padding-top: 50px;
+}
+
+.secao-divulgacao{
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+.secao-conteudo{
+    text-align: center;
+    width: 70%;
+    background-color: white;
+    margin: auto;
+
+}
+
+h1{
+    background-color: rgb(34,33,33);
+    width: 300px;
+    margin:0 auto;
+    padding: 10px 0;
+}
+
+h2{
+    background-color: rgb(204,2,2);
+    width: 300px;
+    margin:0 auto;
+    padding: 5px 0 ;
+}
+
+
+span{
+    background-color: red;
+    color:white;
+    width: 300px;
+    margin:0 auto;
+    padding: 10px 20px ;
+}
